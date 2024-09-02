@@ -38,11 +38,7 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 #### MERN Stack
 [![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern)
 
-- **[HKI AI CAREER](https://github.com/MohamedBoghdaddy/HKI-AI-CAREER)**: A full-stack MERN website integrated with AI for job applications.
-- **[HEDJ](https://github.com/MohamedBoghdaddy/HEDJ)**: A full-stack MERN website for a product design company.
-- **[Petzone](https://github.com/MohamedBoghdaddy/Petzone)**: Frontend development for a veterinary website.
-- **[ReliefLandingPage](https://github.com/MohamedBoghdaddy/ReliefLandingPage)**: A landing page for the Relief and Emergency Foundation.
-- **[DMS (Private)](https://github.com/MohamedBoghdaddy/dms)**: A Document Management System using the MERN stack.
+
 
 #### MEAN Stack
 [![MEAN Stack](https://img.shields.io/badge/MEAN-00D084?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean)
@@ -50,9 +46,6 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 #### WordPress
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=wordpress)
 
-- **[WordPress Project 1](https://github.com/MohamedBoghdaddy/WordPress-Project-1)**: Description of the project.
-- **[WordPress Project 2](https://github.com/MohamedBoghdaddy/WordPress-Project-2)**: Description of the project.
-- **[WordPress Project 3](https://github.com/MohamedBoghdaddy/WordPress-Project-3)**: Description of the project.
 
 ### Tools & Methodologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=git)
