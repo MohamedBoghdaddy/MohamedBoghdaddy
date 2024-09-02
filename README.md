@@ -50,6 +50,10 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 #### WordPress
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=wordpress)
 
+- **[WordPress Project 1](https://github.com/MohamedBoghdaddy/WordPress-Project-1)**: Description of the project.
+- **[WordPress Project 2](https://github.com/MohamedBoghdaddy/WordPress-Project-2)**: Description of the project.
+- **[WordPress Project 3](https://github.com/MohamedBoghdaddy/WordPress-Project-3)**: Description of the project.
+
 ### Tools & Methodologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=git)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=docker)
