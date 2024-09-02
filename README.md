@@ -28,26 +28,20 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 ## Skills & Technologies
 
 ### Programming Languages
-- Java
-- JavaScript
-- TypeScript
-- Python
-- C++
-- PHP
-- SQL
-- Assembly
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=java)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=javascript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=python)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=cpp)
 
 ### Frameworks & Libraries
-- **MERN Stack:** MongoDB, Express.js, React, Node.js
-- **MEAN Stack:** MongoDB, Express.js, Angular, Node.js
-- WordPress
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern)
+[![MEAN Stack](https://img.shields.io/badge/MEAN-00D084?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=wordpress)
 
 ### Tools & Methodologies
-- Agile
-- Waterfall
-- Git
-- Docker
-- Kubernetes
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=git)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=docker)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=kubernetes)
 
 ## Experience
 
