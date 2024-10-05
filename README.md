@@ -36,7 +36,7 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 ### Frameworks & Libraries
 
 #### MERN Stack
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern)
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=javascript)
 
 
 
@@ -60,6 +60,8 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 *07/2024 - 10/2024*
 - Developed a **Document Management System (DMS)** using MERN and PERN stacks.
 - Collaborated with a cross-functional team to implement scalable solutions.
+- Expose APIs 
+- Microservices
 
 ### 🏢 Relief and Emergency Foundation
 **Software Developer Intern**  
@@ -85,6 +87,9 @@ Passionate about leveraging AI and full-stack development to solve real-world pr
 
 ### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/HKI-AI-CAREER)
 A full-stack MERN website integrated with AI for job applications, streamlining the recruitment process.
+
+### 🚀 [DMS](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)
+A full-stack MERN website For Document Handling like github and google drive.
 
 ### 🚀 [HEDJ](https://github.com/MohamedBoghdaddy/HEDJ)
 A Full-Stack MERN website for a product design company, featuring dynamic content management and user interactions.
