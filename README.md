@@ -1,7 +1,7 @@
- 👋 Hi, I'm Mohamed Boghdaddy
+# 👋 Hi, I'm Mohamed Boghdaddy
 
 **Full-Stack AI Engineer**  
-I specialize in combining **Artificial Intelligence** with **Full-Stack Development** to build powerful, scalable applications that solve real-world problems. With a strong foundation in AI, web development, and data science, I am always exploring new technologies to continuously improve and deliver impactful projects.
+I specialize in combining **Artificial Intelligence** with **Full-Stack Development** to build powerful, scalable applications that solve real-world problems. With a strong foundation in AI, web development, and mobile development, I am always exploring new technologies to continuously improve and deliver impactful projects. I have experience building AI models, integrating antivirus solutions, and developing mobile apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
@@ -20,33 +20,36 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 - **Web Development Intern** at Prodigy Info Tech (2024)
 
 🔧 **Skills**  
-- **Programming Languages:** JavaScript, Python, C++, TypeScript, SQL, PHP  
-- **Frameworks & Libraries:** MERN Stack, MEAN Stack, Express, React, Node.js  
-- **AI & Data Science:** Machine Learning, Neural Networks, Deep Learning  
-- **Tools & Methodologies:** Git, Docker, Kubernetes, Agile, Microservices
+- **Programming Languages:** JavaScript, Python, C++, TypeScript, Objective-C, SQL, PHP  
+- **Frameworks & Libraries:** Next.js, React Native, MERN Stack, MEAN Stack, Express, React, Node.js  
+- **AI & Data Science:** Python AI Models, Machine Learning, Neural Networks, Deep Learning  
+- **Mobile Development:** React Native, Objective-C  
+- **Tools & Methodologies:** Git, Docker, Kubernetes, Antivirus Solutions, Agile, Microservices
 
 ## Skills & Technologies
 
 ### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=javascript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=python)
+[![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=objective-c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=cpp)
 
 ### Frameworks & Libraries
 
+#### Next.js  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=nextjs)
+
+#### React Native  
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=reactnative)
+
 #### MERN Stack  
 [![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=javascript)
-
-#### MEAN Stack  
-[![MEAN Stack](https://img.shields.io/badge/MEAN-00D084?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean)
-
-#### WordPress  
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=wordpress)
 
 ### Tools & Methodologies  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=git)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=docker)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=kubernetes)
+[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=antivirus)
 
 ## Featured Projects
 
@@ -70,6 +73,8 @@ Frontend development for a veterinary website, with an emphasis on responsive de
 
 ### 🎯 Interests  
 - Exploring AI advancements  
+- Mobile development (React Native & Objective-C)  
+- Cybersecurity & antivirus development  
 - Boxing  
 - Cooking  
 - Rugby  
