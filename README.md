@@ -73,7 +73,8 @@ Frontend development for a veterinary website, with an emphasis on responsive de
 
 ### 🎯 Interests  
 - Exploring AI advancements  
-- Mobile development (React Native & Objective-C)  
+- Mobile development (React Native & Objective-C)
+- Full-Stack Web Applications
 - Cybersecurity & antivirus development  
 - Boxing  
 - Cooking  
