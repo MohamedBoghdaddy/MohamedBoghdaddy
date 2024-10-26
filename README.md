@@ -11,11 +11,6 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 ## 📈 GitHub Activity & Stats
 
-- **[Total Stars Earned](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=&sort=stargazers)**: 2  
-- **[Total Commits (2024)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=&sort=commits)**: 486  
-- **[Total PRs](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=pull_requests)**: 2  
-- **[Total Issues](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=issues)**: 0  
-
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)
