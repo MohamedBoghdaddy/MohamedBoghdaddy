@@ -49,24 +49,28 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 [![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp&type=&language=cpp)
 
+---
+
 ### Frameworks & Libraries
 
 #### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js&language=javascript)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+next.js)
 
 #### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native&language=javascript)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+react+native)
 
 #### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern&language=javascript)
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+mern)
 
 ### Tools & Methodologies  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=git)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=docker)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=kubernetes)
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=antivirus)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+git)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+docker)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+kubernetes)
+[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+antivirus)
 
 ---
+
 
 ## Featured Projects
 
