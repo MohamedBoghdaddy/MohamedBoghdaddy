@@ -54,24 +54,35 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ### Frameworks & Libraries
 
 #### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+next.js)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+next.js)  
+A powerful React framework for server-rendered applications, optimized for SEO and fast page loads.
 
 #### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+react+native)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+react+native)  
+An open-source framework for building cross-platform mobile apps using JavaScript and React.
 
 #### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+mern)
-
-### Tools & Methodologies
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+git)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+docker)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus)
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+mern)  
+Combines MongoDB, Express.js, React, and Node.js to build full-stack applications.
 
 ---
 
-Each of these links now searches for the term within all repositories under the username `MohamedBoghdaddy`. Clicking on these links will open a GitHub search results page showing all instances of the term across your repositories. Let me know if there’s anything else you’d like to adjust!
+### Tools & Methodologies
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+git)  
+Git is a version control system to manage project code history and collaboration.
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+docker)  
+Docker is a tool for creating, deploying, and running applications in containers.
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)  
+Kubernetes is an orchestration tool for automating application deployment, scaling, and management.
+
+[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus)  
+A focus on developing antivirus solutions to enhance cybersecurity for applications.
+
+---
+
 ## Featured Projects
 
 ### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/hkiiapply)  
