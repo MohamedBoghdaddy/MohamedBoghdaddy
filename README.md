@@ -7,6 +7,16 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
 
+---
+
+## 📈 GitHub Activity & Stats
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)
+
+---
+
 ## About Me
 
 🎓 **Education**  
@@ -51,6 +61,8 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=kubernetes)
 [![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=&type=&language=antivirus)
 
+---
+
 ## Featured Projects
 
 ### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/HKI-AI-CAREER)  
@@ -64,6 +76,8 @@ A full-stack website for a product design company, integrating content managemen
 
 ### 🚀 [Petzone](https://github.com/MohamedBoghdaddy/Petzone)  
 Frontend development for a veterinary website, with an emphasis on responsive design and user accessibility.
+
+---
 
 ## Achievements & Interests
 
@@ -80,11 +94,12 @@ Frontend development for a veterinary website, with an emphasis on responsive de
 - Cooking  
 - Rugby  
 
+---
+
 ## Connect with Me
 
 📧 **Email:** [mohamedhammad3.142@gmail.com](mailto:mohamedhammad3.142@gmail.com)  
 🌍 **Location:** Cairo, Egypt  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor
+
