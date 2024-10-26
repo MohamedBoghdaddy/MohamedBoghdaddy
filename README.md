@@ -49,16 +49,13 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ### Frameworks & Libraries
 
 #### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+next.js)  
-A powerful React framework for server-rendered applications, optimized for SEO and fast page loads.
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js&language=javascript)
 
 #### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+react+native)  
-An open-source framework for building cross-platform mobile apps using JavaScript and React.
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native&language=javascript)
 
 #### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+mern)  
-Combines MongoDB, Express.js, React, and Node.js to build full-stack applications.
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern&language=javascript)
 
 ---
 
