@@ -49,7 +49,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ### Frameworks & Libraries
 
 #### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=topic:nextjs)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js)
 
 
 #### React Native  
