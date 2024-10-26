@@ -70,7 +70,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 ## Featured Projects
 
-### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/HKI-AI-CAREER)  
+### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/hkiiapply)  
 A full-stack MERN website powered by AI, designed to automate job applications, ensuring a seamless recruitment experience for users.
 
 ### 🚀 [DMS - Document Management System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)  
