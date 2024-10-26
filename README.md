@@ -54,24 +54,24 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ### Frameworks & Libraries
 
 #### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+next.js)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+next.js)
 
 #### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+react+native)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+react+native)
 
 #### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+mern)
+[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+mern)
 
-### Tools & Methodologies  
+### Tools & Methodologies
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+git)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+docker)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+kubernetes)
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=repo:MohamedBoghdaddy/*+antivirus)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+git)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+docker)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)
+[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus)
 
 ---
 
-
+Each of these links now searches for the term within all repositories under the username `MohamedBoghdaddy`. Clicking on these links will open a GitHub search results page showing all instances of the term across your repositories. Let me know if there’s anything else you’d like to adjust!
 ## Featured Projects
 
 ### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/hkiiapply)  
