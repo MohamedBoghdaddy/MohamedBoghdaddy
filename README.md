@@ -13,7 +13,8 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MohamedBoghdaddy&theme=github) 
 
 ---
 
@@ -50,7 +51,6 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 #### Next.js  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js)
-
 
 #### React Native  
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native&language=React_Native)
