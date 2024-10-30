@@ -42,7 +42,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript&type=&language=javascript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=python&type=&language=python)
 [![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=c++&type=&language=C++)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp&type=&language=c++)
 
 ---
 
