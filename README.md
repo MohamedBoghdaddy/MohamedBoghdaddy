@@ -57,6 +57,9 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 #### MERN Stack  
 [![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern&language=javascript)
 
+#### MEAN Stack  
+[![MEAN Stack](https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean&language=javascript)
+
 ---
 
 ### Tools & Methodologies
