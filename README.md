@@ -77,7 +77,7 @@ Docker is a tool for creating, deploying, and running applications in containers
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)  
 Kubernetes is an orchestration tool for automating application deployment, scaling, and management.
 
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus)  
+[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus+in:description)
 A focus on developing antivirus solutions to enhance cybersecurity for applications.
 
 ---
