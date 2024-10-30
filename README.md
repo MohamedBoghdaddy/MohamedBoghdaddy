@@ -39,14 +39,12 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ## Skills & Technologies
 
 ### Programming Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript&type=&language=javascript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=python&type=&language=python)
-[![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp&type=&language=c++)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=java&language=java)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=python&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript&type=&language=javascript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&language=TypeScript)
-
-
+[![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
 
 ---
 
