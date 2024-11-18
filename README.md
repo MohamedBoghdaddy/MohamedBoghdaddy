@@ -10,7 +10,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 ---
 
 ## 📈 GitHub Activity & Stats
-https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)  
