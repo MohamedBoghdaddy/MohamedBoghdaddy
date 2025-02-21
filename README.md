@@ -134,7 +134,6 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedBoghdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedBoghdaddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedBoghdaddy" alt="MohamedBoghdaddy" /></a> </p>
----
 
 ## About Me
 
