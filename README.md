@@ -40,43 +40,43 @@ Here’s a **merged, optimized, and elegant** version of your **Languages, Tools
 ---
 
 ## 💡 **Languages, Frameworks & Tools**  
-
 ### **Programming Languages**  
 <p align="left">
-  <a href="https://github.com/topics/cpp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://github.com/topics/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://github.com/topics/python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://github.com/topics/java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://github.com/topics/javascript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://github.com/topics/typescript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://github.com/topics/php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://github.com/topics/objective-c" target="_blank"><img src="objectiveC.png" alt="Objective-C" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=typescript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c" target="_blank"><img src="objectiveC.png" alt="Objective-C" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### **Frameworks & Libraries**  
 <p align="left">
-  <a href="https://github.com/topics/nextjs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://github.com/topics/react-native" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://github.com/topics/expressjs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://github.com/topics/mern-stack" target="_blank"><img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/></a>
-  <a href="https://github.com/topics/mean-stack" target="_blank"><img src="https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack"/></a>
-  <a href="https://github.com/topics/django" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://github.com/topics/dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=nextjs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=express" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=mern" target="_blank"><img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=mean" target="_blank"><img src="https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=django" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### **Tools & DevOps**  
 <p align="left">
-  <a href="https://github.com/topics/git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/topics/docker" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://github.com/topics/kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://github.com/topics/firebase" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://github.com/topics/figma" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://github.com/topics/canvasjs" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=docker" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=firebase" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=figma" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=canvasjs" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/></a>
 </p>
+
 
 
 🔹 **Version Control:** Git, GitHub, GitLab  
