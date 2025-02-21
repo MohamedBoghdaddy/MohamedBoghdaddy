@@ -16,12 +16,29 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 ---
 
+## 🌟 Achievements & Badges
+
+**Profile Views:** ![Profile Views](https://img.shields.io/badge/Views-619-blue)
+
+| **Category** | **Badge** | **Points** |
+|-------------|----------|------------|
+| **Commits** | High Committer | 164pt |
+| **Pull Requests** | High Puller | 34pt |
+| **Repositories** | High Repo Creator | 26pt |
+| **Experience** | Intermediate Dev | 11pt |
+| **Followers** | Many Friends | 16pt |
+| **Stars** | First Star | 2pt |
+| **Issues** | Unknown | 0pt |
+| **Reviews** | Unknown | 0pt |
+
+---
+
 ## About Me
 
 🎓 **Education**  
 - **Computer Science**, Misr International University (2021 - Present), Cairo, Egypt
 
-💼 **Experience**  
+🌽 **Experience**  
 - **Machine Learning Engineer** at Neorontrix (2024)
 - **Full-Stack MERN Intern** at ATOS (2024)
 - **Software Developer Intern** at Relief and Emergency Foundation (2024)
@@ -34,49 +51,6 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 - **AI & Data Science:** Python AI Models, Machine Learning, Neural Networks, Deep Learning  
 - **Mobile Development:** React Native, Objective-C  
 - **Tools & Methodologies:** Git, Docker, Kubernetes, Antivirus Solutions, Agile, Microservices
-
-## Skills & Technologies
-
-### Programming Languages
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp&type=&language=c++)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=java&language=java)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=python&type=&language=python)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=PHP&language=php)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript&type=&language=javascript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&language=TypeScript)
-[![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
-
----
-
-### Frameworks & Libraries
-
-#### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js)
-
-#### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native&language=React_Native)
-
-#### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern&language=javascript)
-
-#### MEAN Stack  
-[![MEAN Stack](https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean&language=MEAN)
-
----
-
-### Tools & Methodologies
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+git)  
-Git is a version control system to manage project code history and collaboration.
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+docker)  
-Docker is a tool for creating, deploying, and running applications in containers.
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)  
-Kubernetes is an orchestration tool for automating application deployment, scaling, and management.
-
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus+in:description)
-A focus on developing antivirus solutions to enhance cybersecurity for applications.
 
 ---
 
@@ -93,23 +67,6 @@ A full-stack website for a product design company, integrating content managemen
 
 ### 🚀 [Petzone](https://github.com/MohamedBoghdaddy/Petzone)  
 Frontend development for a veterinary website, with an emphasis on responsive design and user accessibility.
-
----
-
-## Achievements & Interests
-
-### 🏆 Achievements  
-- **Competitive Programming:** Active participant in ACPC MIU Competitive Programming contests.  
-- **Research:** Published research on loan acceptance algorithms using machine learning techniques.
-
-### 🎯 Interests  
-- Exploring AI advancements  
-- Mobile development (React Native & Objective-C)
-- Full-Stack Web Applications
-- Cybersecurity & antivirus development  
-- Boxing  
-- Cooking  
-- Rugby  
 
 ---
 
