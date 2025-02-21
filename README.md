@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedBoghdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedBoghdaddy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedBoghdaddy" alt="MohamedBoghdaddy" /></a> </p>
+
 # 👋 Hi, I'm Mohamed Boghdaddy
 
 **Full-Stack AI Engineer**  
@@ -6,30 +10,6 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
-
----
-
-## 📈 GitHub Activity & Stats
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)  
-
----
-
-## 🌟 Achievements & Badges
-
-**Profile Views:** ![Profile Views](https://img.shields.io/badge/Views-619-blue)
-
-| **Category** | **Badge** | **Points** |
-|-------------|----------|------------|
-| **Commits** | High Committer | 164pt |
-| **Pull Requests** | High Puller | 34pt |
-| **Repositories** | High Repo Creator | 26pt |
-| **Experience** | Intermediate Dev | 11pt |
-| **Followers** | Many Friends | 16pt |
-| **Stars** | First Star | 2pt |
-| **Issues** | Unknown | 0pt |
-| **Reviews** | Unknown | 0pt |
 
 ---
 
@@ -45,28 +25,11 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 - **Machine Learning Intern** at Code Alpha (2024)
 - **Web Development Intern** at Prodigy Info Tech (2024)
 
-🔧 **Skills**  
-- **Programming Languages:** JavaScript, Python, C++, TypeScript, Objective-C, SQL, PHP  
-- **Frameworks & Libraries:** Next.js, React Native, MERN Stack, MEAN Stack, Express, React, Node.js  
-- **AI & Data Science:** Python AI Models, Machine Learning, Neural Networks, Deep Learning  
-- **Mobile Development:** React Native, Objective-C  
-- **Tools & Methodologies:** Git, Docker, Kubernetes, Antivirus Solutions, Agile, Microservices
-
 ---
 
-## Featured Projects
-
-### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/hkiiapply)  
-A full-stack MERN website powered by AI, designed to automate job applications, ensuring a seamless recruitment experience for users.
-
-### 🚀 [DMS - Document Management System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)  
-A robust MERN-based system for handling and organizing documents, similar to platforms like GitHub and Google Drive.
-
-### 🚀 [HEDJ](https://github.com/MohamedBoghdaddy/HEDJ)  
-A full-stack website for a product design company, integrating content management and rich user interactions.
-
-### 🚀 [Petzone](https://github.com/MohamedBoghdaddy/Petzone)  
-Frontend development for a veterinary website, with an emphasis on responsive design and user accessibility.
+## 💡 Languages and Tools:
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
 ---
 
