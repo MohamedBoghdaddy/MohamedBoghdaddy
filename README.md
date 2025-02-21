@@ -35,50 +35,65 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 - **Mobile Development:** React Native, Objective-C  
 - **Tools & Methodologies:** Git, Docker, Kubernetes, Antivirus Solutions, Agile, Microservices
 
-## Skills & Technologies
-
-### Programming Languages
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp&type=&language=c++)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=java&language=java)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=python&type=&language=python)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=PHP&language=php)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript&type=&language=javascript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&language=TypeScript)
-[![Objective-C](https://img.shields.io/badge/ObjectiveC-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c&type=&language=objective-c)
+Here’s a **merged, optimized, and elegant** version of your **Languages, Tools, and Frameworks** section, removing redundancy while maintaining a structured and visually appealing format.
 
 ---
 
-### Frameworks & Libraries
+## 💡 **Languages, Frameworks & Tools**  
 
-#### Next.js  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=next.js)
+### **Programming Languages**  
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMac_Icon.svg" alt="Objective-C" width="40" height="40"/></a>
+</p>
 
-#### React Native  
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native&language=React_Native)
+---
 
-#### MERN Stack  
-[![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mern&language=javascript)
-
-#### MEAN Stack  
-[![MEAN Stack](https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/MohamedBoghdaddy?tab=repositories&q=mean&language=MEAN)
+### **Frameworks & Libraries**  
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/mern-stack" target="_blank"><img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/></a>
+  <a href="https://mean.io/" target="_blank"><img src="https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
+</p>
 
 ---
 
-### Tools & Methodologies
+### **Tools & DevOps**  
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://canvasjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/></a>
+</p>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+git)  
-Git is a version control system to manage project code history and collaboration.
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+docker)  
-Docker is a tool for creating, deploying, and running applications in containers.
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+kubernetes)  
-Kubernetes is an orchestration tool for automating application deployment, scaling, and management.
-
-[![Antivirus](https://img.shields.io/badge/Antivirus-2E8B57?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/search?q=user:MohamedBoghdaddy+antivirus+in:description)
-A focus on developing antivirus solutions to enhance cybersecurity for applications.
+🔹 **Version Control:** Git, GitHub, GitLab  
+🔹 **Cloud & Deployment:** Firebase, Netlify, Vercel, Heroku  
+🔹 **Database Management:** MongoDB, PostgreSQL, MySQL  
+🔹 **Cybersecurity:** Antivirus Development, Network Security  
+🔹 **Methodologies:** Agile, Microservices Architecture  
 
 ---
+
+### **Cybersecurity & Specialization**  
+- **Antivirus Development:** Enhancing cybersecurity for applications.  
+- **Containerization & Orchestration:** Docker & Kubernetes for scalable deployments.  
+- **Machine Learning & AI:** Implementing AI-driven solutions in web and mobile applications.  
+
+---
+
+This **streamlined version** keeps only the best elements, maintains **high readability**, and **improves clarity** while keeping the layout **elite and professional**. 🚀
 
 ## Featured Projects
 
@@ -149,11 +164,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 
 ---
 
-## 💡 Languages and Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
 
----
 
 ## Connect with Me
 
