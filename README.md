@@ -42,19 +42,39 @@ Here’s a **merged, optimized, and elegant** version of your **Languages, Tools
 ## 💡 **Languages, Frameworks & Tools**  
 ### **Programming Languages**  
 <p align="left">
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=cpp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://github.com/search?q=user:MohamedBoghdaddy+language:JavaScript&type=repositories" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-       alt="JavaScript" width="40" height="40"/>
-</a>
-
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=typescript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=objective-c" target="_blank"><img src="objectiveC.png" alt="Objective-C" width="40" height="40"/></a>
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:C%2B%2B&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:C&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Python&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Java&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:JavaScript&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:TypeScript&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:PHP&type=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Objective-C&type=repositories" target="_blank">
+    <img src="objectiveC.png" alt="Objective-C" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
