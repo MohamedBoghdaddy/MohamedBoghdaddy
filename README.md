@@ -24,7 +24,7 @@ I specialize in combining **Artificial Intelligence** with **Full-Stack Developm
 💼 **Experience**  
 - **Machine Learning Engineer** at Neorontrix (2024)
 - **Full-Stack MERN Intern** at ATOS (2024)
-- **Software Developer Intern** at Relief and Emergency Foundation (2024)
+- **Software Developer** at Relief and Emergency Foundation (2024)
 - **Machine Learning Intern** at Code Alpha (2024)
 - **Web Development Intern** at Prodigy Info Tech (2024)
 
