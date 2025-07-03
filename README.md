@@ -1,201 +1,96 @@
 # 👋 Hi, I'm Mohamed Boghdaddy
 
-**Full-Stack AI Engineer**  
-I specialize in combining **Artificial Intelligence** with **Full-Stack Development** to build powerful, scalable applications that solve real-world problems. With a strong foundation in AI, web development, and mobile development, I am always exploring new technologies to continuously improve and deliver impactful projects. I have experience building AI models, integrating antivirus solutions, and developing mobile apps.
+**AI-Powered Full-Stack Engineer | ML Researcher | Product-Driven Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
+I build **end-to-end intelligent systems** that combine machine learning, full-stack engineering, and real-time data pipelines. From scalable fintech platforms and medical AI tools to secure decentralized dApps, my work bridges innovation and usability.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
 
 ---
 
-## 📈 GitHub Activity & Stats
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark)  
+## 🚀 About Me
+
+🎓 **Education:**  
+`B.Sc. Computer Science` — Misr International University, Cairo, Egypt (2021–2025)
+
+🧠 **Current Focus:**  
+- AI-powered financial forecasting systems (LSTM, XGBoost, ARIMA)
+- Gemini + FastAPI chatbots for stock, gold, and real estate advising  
+- Full-stack decentralized apps (ICP, wallet login, NFT/Bitcoin support)
+- OCR, object tracking, PDF automation, and real-world computer vision systems
 
 ---
 
-## About Me
+## 💼 Experience
 
-🎓 **Education**  
-- **Computer Science**, Misr International University (2021 - Present), Cairo, Egypt
-
-💼 **Experience**  
-- **Machine Learning Engineer** at Neorontrix (2024)
-- **Full-Stack MERN Intern** at ATOS (2024)
-- **Software Developer** at Relief and Emergency Foundation (2024)
-- **Machine Learning Intern** at Code Alpha (2024)
-- **Web Development Intern** at Prodigy Info Tech (2024)
-
-🔧 **Skills**  
-- **Programming Languages:** JavaScript, Python, C++, TypeScript, Objective-C, SQL, PHP  
-- **Frameworks & Libraries:** Next.js, React Native, MERN Stack, MEAN Stack, Express, React, Node.js  
-- **AI & Data Science:** Python AI Models, Machine Learning, Neural Networks, Deep Learning  
-- **Mobile Development:** React Native, Objective-C  
-- **Tools & Methodologies:** Git, Docker, Kubernetes, Antivirus Solutions, Agile, Microservices
-
-Here’s a **merged, optimized, and elegant** version of your **Languages, Tools, and Frameworks** section, removing redundancy while maintaining a structured and visually appealing format.
+- **AI Engineer** @ Neorontrix – Built AI diagnosis support for neuro apps  
+- **MERN Developer Intern** @ ATOS – Developed a secure document management platform  
+- **Software Developer** @ Relief and Emergency Foundation – Developed scalable internal tools  
+- **ML Intern** @ Code Alpha – Forecasting models and data pipelines  
+- **Web Dev Intern** @ Prodigy InfoTech – Responsive frontend web projects
 
 ---
 
-## 💡 **Languages, Frameworks & Tools**  
-### **Programming Languages**  
-<p align="left">
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:C%2B%2B&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:C&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Python&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Java&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:JavaScript&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:TypeScript&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:PHP&type=repositories" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/search?q=user:MohamedBoghdaddy+language:Objective-C&type=repositories" target="_blank">
-    <img src="objectiveC.png" alt="Objective-C" width="40" height="40"/>
-  </a>
-</p>
+## 🔧 Core Skills
 
+### 💻 Programming
+`Python` · `JavaScript` · `TypeScript` · `C++` · `PHP` · `SQL` · `Objective-C`
+
+### 🧠 AI/ML
+- Forecasting (LSTM, ARIMA, Prophet, XGBoost)
+- Gemini/Chatbot integration (Gemini 1.5 Flash)
+- OCR, image classification, sentiment analysis
+- Medical video analysis (Mamba, ViViT)
+
+### 🌐 Full-Stack & Mobile
+- **MERN**, **MEAN**, **Next.js**, **Flutter**, **React Native**
+- **FastAPI**, **Node.js**, **Firebase**, **MongoDB**, **Supabase**
+- Responsive dashboards, authentication flows, and modular UIs
+
+### 🔐 Security & DevOps
+- Antivirus scanners, network security tools
+- Docker, Kubernetes, CI/CD, Firebase Hosting
+- Web3 integrations: Internet Computer (ICP), Chain-Key Bitcoin
 
 ---
 
-### **Frameworks & Libraries**  
-<p align="left">
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=nextjs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=react%20native" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=express" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=javascript" target="_blank"><img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=mean" target="_blank"><img src="https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=django" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
-</p>
+## 🌟 Featured Projects
+
+- **📊 [Stock_Forcaster](https://github.com/MohamedBoghdaddy/Stock_Forcaster)**  
+  Gemini-powered AI chatbot + forecasting dashboard using real-time stock/gold/real-estate APIs.
+
+- **💬 [DeFi Copilot (ICP)](https://github.com/MohamedBoghdaddy/DeFi-Copilot-ICP)**  
+  Decentralized financial advisor dApp with wallet login, AI chatbot, and ICP backend integration.
+
+- **🧠 [MammoAI](https://github.com/MohamedBoghdaddy/MammoAI)**  
+  Medical video classifier using Mamba/ViViT, focused on breast cancer analysis.
+
+- **📁 [Atos Document System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)**  
+  Full MERN-based GitHub-like file manager with smart uploads and metadata tagging.
+
+- **🔍 [FoundIt App](https://github.com/MohamedBoghdaddy/FoundIt)**  
+  Flutter + FastAPI app for AI-powered lost-and-found item matching using image understanding + custom questionnaires.
+
+- **📚 [AutoAI Suite](https://github.com/MohamedBoghdaddy/AutoAI-Suite)**  
+  A no-code tool for training, tuning, and comparing ML models with visual insights.
 
 ---
 
-### **Tools & DevOps**  
-<p align="left">
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=docker" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=firebase" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=figma" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://github.com/MohamedBoghdaddy?tab=repositories&q=canvasjs" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/></a>
-</p>
+## 🏆 Achievements
 
-
-
-🔹 **Version Control:** Git, GitHub, GitLab  
-🔹 **Cloud & Deployment:** Firebase, Netlify, Vercel, Heroku  
-🔹 **Database Management:** MongoDB, PostgreSQL, MySQL  
-🔹 **Cybersecurity:** Antivirus Development, Network Security  
-🔹 **Methodologies:** Agile, Microservices Architecture  
+- 🥇 Top performer in MIU ACPC Programming Contests  
+- 📄 Published research on loan acceptance prediction models  
+- 📢 Successfully defended IEEE-style thesis on Mamba-based medical AI
 
 ---
 
-### **Cybersecurity & Specialization**  
-- **Antivirus Development:** Enhancing cybersecurity for applications.  
-- **Containerization & Orchestration:** Docker & Kubernetes for scalable deployments.  
-- **Machine Learning & AI:** Implementing AI-driven solutions in web and mobile applications.  
-
----
-
-This **streamlined version** keeps only the best elements, maintains **high readability**, and **improves clarity** while keeping the layout **elite and professional**. 🚀
-
-## Featured Projects
-
-### 🚀 [HKI AI CAREER](https://github.com/MohamedBoghdaddy/hkiiapply)  
-A full-stack MERN website powered by AI, designed to automate job applications, ensuring a seamless recruitment experience for users.
-
-### 🚀 [DMS - Document Management System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)  
-A robust MERN-based system for handling and organizing documents, similar to platforms like GitHub and Google Drive.
-
-### 🚀 [HEDJ](https://github.com/MohamedBoghdaddy/HEDJ)  
-A full-stack website for a product design company, integrating content management and rich user interactions.
-
-### 🚀 [Petzone](https://github.com/MohamedBoghdaddy/Petzone)  
-Frontend development for a veterinary website, with an emphasis on responsive design and user accessibility.
-
----
-
-## Achievements & Interests
-
-### 🏆 Achievements  
-- **Competitive Programming:** Active participant in ACPC MIU Competitive Programming contests.  
-- **Research:** Published research on loan acceptance algorithms using machine learning techniques.
-
-### 🎯 Interests  
-- Exploring AI advancements  
-- Mobile development (React Native & Objective-C)
-- Full-Stack Web Applications
-- Cybersecurity & antivirus development  
-- Boxing  
-- Cooking  
-- Rugby  
-
----
-
-## Connect with Me
+## 💬 Let's Connect
 
 📧 **Email:** [mohamedhammad3.142@gmail.com](mailto:mohamedhammad3.142@gmail.com)  
-🌍 **Location:** Cairo, Egypt  
+🌍 **Based in:** Cairo, Egypt  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
-
-# 👋 Hi, I'm Mohamed Boghdaddy
-
-**Full-Stack AI Engineer**  
-I specialize in combining **Artificial Intelligence** with **Full-Stack Development** to build powerful, scalable applications that solve real-world problems. With a strong foundation in AI, web development, and mobile development, I am always exploring new technologies to continuously improve and deliver impactful projects. I have experience building AI models, integrating antivirus solutions, and developing mobile apps.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedBoghdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedBoghdaddy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedBoghdaddy" alt="MohamedBoghdaddy" /></a> </p>
-
-## About Me
-
-🎓 **Education**  
-- **Computer Science**, Misr International University (2021 - Present), Cairo, Egypt
-
-🌽 **Experience**  
-- **Machine Learning Engineer** at Neorontrix (2024)
-- **Full-Stack MERN Intern** at ATOS (2024)
-- **Software Developer Intern** at Relief and Emergency Foundation (2024)
-- **Machine Learning Intern** at Code Alpha (2024)
-- **Web Development Intern** at Prodigy Info Tech (2024)
-
----
-
-
-
-## Connect with Me
-
-📧 **Email:** [mohamedhammad3.142@gmail.com](mailto:mohamedhammad3.142@gmail.com)  
-🌍 **Location:** Cairo, Egypt  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-boghdaddy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a5f?logo=google-chrome&logoColor=white)](https://boghdaddys-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MohamedBoghdaddy)
