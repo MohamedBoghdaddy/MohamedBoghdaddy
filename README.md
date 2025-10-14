@@ -83,7 +83,7 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 </details>
 
 <details>
-<summary><b>ML Engineer — Relief and Emergency Foundation</b> <em>(May 2024 – Aug 2024)</em></summary>
+<summary><b>Software Engineer — Relief and Emergency Foundation</b> <em>(May 2024 – Aug 2024)</em></summary>
 
 `Data Infrastructure`  
 • Created internal forecasting tools for resource allocation optimization.  
