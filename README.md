@@ -43,20 +43,70 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 | **Repository**     | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark) |
 | **Languages**      | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark) |
 
----
-
 ## 💼 Professional Experience
 
-**AI Engineer @ Neorontrix** (2024)  
-`Medical AI` • Built neural diagnostic tools for neurological applications using video analysis pipelines  
+<details open>
+<summary><b>UAT Engineer — Geidea for Technologies</b> <em>(Aug 2025 – Present)</em></summary>
 
-**Full-Stack Engineer @ ATOS** (2024)  
-`Security Systems` • Developed secure document management platform with RBAC and audit trails  
+`FinTech • Quality Assurance`  
+• Conduct User Acceptance Testing (UAT) for financial applications and payment solutions.  
+• Collaborate with business stakeholders to validate requirements and ensure product readiness.  
+• Report defects, track resolutions, and provide feedback to improve QA processes.  
+• Support Agile ceremonies by aligning UAT with sprint deliverables and timelines.  
 
-**ML Engineer @ Relief and Emergency Foundation** (2024)  
-`Data Infrastructure` • Created internal forecasting tools for resource allocation optimization  
+</details>
 
----
+<details>
+<summary><b>Prompt Engineer (Freelance)</b> <em>(Jul 2024 – Present)</em></summary>
+
+`AI Systems • Prompt Engineering`  
+• Designed multi-turn prompts using **Phi-2** and **Gemini** for financial and lost/found systems.  
+• Enhanced model contextual memory using few-shot learning and prompt chaining.  
+
+</details>
+
+<details>
+<summary><b>AI Engineer — Neorontrix</b> <em>(2024)</em></summary>
+
+`Medical AI`  
+• Built neural diagnostic tools for neurological applications using video analysis pipelines.  
+
+</details>
+
+<details>
+<summary><b>Full-Stack Engineer — ATOS</b> <em>(Jul 2024 – Oct 2024)</em></summary>
+
+`Security Systems`  
+• Developed a secure document management platform with RBAC and audit trails.  
+• Optimized React components and backend APIs in a scalable **MERN/PERN** stack.  
+
+</details>
+
+<details>
+<summary><b>ML Engineer — Relief and Emergency Foundation</b> <em>(May 2024 – Aug 2024)</em></summary>
+
+`Data Infrastructure`  
+• Created internal forecasting tools for resource allocation optimization.  
+• Deployed microservices supporting WordPress and MERN analytics modules.  
+
+</details>
+
+<details>
+<summary><b>Machine Learning Intern — Code Alpha</b> <em>(Feb 2024 – May 2024)</em></summary>
+
+`AI Models`  
+• Built ML models including recommenders, stock predictors, and survival classifiers.  
+
+</details>
+
+<details>
+<summary><b>Web Dev Intern — Prodigy Info Tech</b> <em>(Jan 2024 – Feb 2024)</em></summary>
+
+`Frontend Development`  
+• Developed responsive landing pages and interactive apps (e.g., stopwatch, portfolio).  
+
+</details>
+
 
 ## 🏆 Featured Projects
 
