@@ -119,15 +119,16 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 
 ---
 
-## 🎓 Education & Recognition
-**B.Sc Computer Science**  
-Misr International University, Cairo (2021-2025)  
 
-**Achievements**:
-- 🥇 Top performer in MIU ACPC Programming Contests
-- 📄 Published research on loan prediction algorithms
-- 🏆 IEEE thesis defense on Mamba-based medical AI
-
+**Courses-Udemy**:
+• Agile & Scrum Project Management: A Real-World Approach
+• Reinforcement Learning: Beginner to Master – AI in Python
+• Hyperparameter Optimization for Machine Learning
+• Microservices with Node.js and React
+• AI and Meta-Heuristics (Combinatorial Optimization) – Python
+• Next.js 15 & React – The Complete Guide
+• NodeJS Projects Bootcamp 2025: Learn by Doing
+• Python for Finance: Investment Fundamentals & Data Analytics
 ---
 
 ## 📬 Contact
