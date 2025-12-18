@@ -1,5 +1,5 @@
 # Mohamed Boghdaddy  
-**Senior Full-Stack AI Engineer | Web3 & ML Systems Architect**
+**Full-Stack AI Engineer | Web3 & ML Systems Architect**
 
 I design and deploy intelligent systems that bridge machine learning, full-stack engineering, and decentralized technologies. My work delivers measurable impact across fintech, healthcare, and Web3 through robust architecture and performance-driven solutions.
 
