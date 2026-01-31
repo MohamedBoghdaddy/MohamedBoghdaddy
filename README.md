@@ -55,7 +55,7 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 
 `AI Solutions• Full Stack AI Engineer`  
 • Sole Full-Stack AI Engineer at PreGen AI. 
-• Built the entire product end-to-end—frontend, backend, AI integration, and deployment—using MERN,
+• Built the entire product end-to-end—frontend, backend, AI integration, and deployment—using MERN.
 • Used Google Gemini/Open ai/ anthropic api. 
 • Shipped a production AI platform from zero to live.
 
