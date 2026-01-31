@@ -51,7 +51,18 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>UAT Engineer — Geidea for Technologies</b> <em>(Aug 2025 – Present)</em></summary>
+<summary><b>Full Stack AI Engineer</b> <em>(Oct 2025 –Present)</em></summary>
+
+`AI Solutions• Full Stack AI Engineer`  
+• Sole Full-Stack AI Engineer at PreGen AI. 
+• Built the entire product end-to-end—frontend, backend, AI integration, and deployment—using MERN,
+• Used Google Gemini/Open ai/ anthropic api. 
+• Shipped a production AI platform from zero to live.
+
+</details>
+
+<details>
+<summary><b>UAT Engineer — Geidea for Technologies</b> <em>(Aug 2025 – Nov 2025)</em></summary>
 
 `FinTech • Quality Assurance`  
 • Conduct User Acceptance Testing (UAT) for financial applications and payment solutions.  
