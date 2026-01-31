@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-github-cards
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,13 +19,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Install SVG to PNG converter
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y librsvg2-bin
-
-      - name: Download cards (with fallback)
+      - name: Download cards (with fallback + keep old SVGs)
         shell: bash
         run: |
           mkdir -p profile
@@ -37,6 +38,7 @@ jobs:
                 --retry 3 --retry-delay 2 --retry-all-errors \
                 "$url" -o "$out.tmp"; then
 
+                # Validate it's SVG (not HTML)
                 if grep -qi "<svg" "$out.tmp"; then
                   mv "$out.tmp" "$out"
                   echo "✅ Saved: $out"
@@ -52,6 +54,7 @@ jobs:
 
             rm -f "$out.tmp"
 
+            # If all URLs failed, keep existing file
             if [ "$ok" -ne 1 ]; then
               if [ -f "$out" ]; then
                 echo "✅ Keeping existing $out (service down / rate-limited)"
@@ -62,40 +65,40 @@ jobs:
             fi
           }
 
-          # Streak
+          # 1) Streak
           fetch_svg "profile/streak.svg" \
             "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true"
 
-          # Stats (primary + mirror)
+          # 2) Stats (primary + mirror)
           fetch_svg "profile/stats.svg" \
             "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
             "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400"
 
-          # Top Langs (primary + mirror)
+          # 3) Top Langs (primary + mirror)
           fetch_svg "profile/top-langs.svg" \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
             "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
 
-      - name: Convert SVG to PNG (GitHub-safe)
+      - name: Commit and push (rebase-safe)
         shell: bash
         run: |
-          rsvg-convert profile/streak.svg -o profile/streak.png
-          rsvg-convert profile/stats.svg -o profile/stats.png
-          rsvg-convert profile/top-langs.svg -o profile/top-langs.png
+          set -e
 
-      - name: Commit and push
-        shell: bash
-        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # commit both svg + png (or you can delete svg later if you want)
-          git add profile/*.svg profile/*.png
+          git add profile/*.svg
 
+          # Only commit if there are changes
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
           git commit -m "chore: update GitHub cards"
-          git push
+
+          # Sync with remote to avoid "fetch first"
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
