@@ -38,25 +38,14 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-    height="165"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 </p>
+
 
 ## 💼 Professional Experience
 
