@@ -1,91 +1,56 @@
-name: Update GitHub Cards
+- name: Download cards (with fallback)
+  shell: bash
+  run: |
+    mkdir -p profile
+    UA="Mozilla/5.0 (GitHub Actions)"
 
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    fetch_svg () {
+      local out="$1"; shift
+      local ok=0
 
-permissions:
-  contents: write
+      for url in "$@"; do
+        echo "Trying: $url"
+        if curl -L -A "$UA" --connect-timeout 15 --max-time 60 \
+          --retry 3 --retry-delay 2 --retry-all-errors \
+          "$url" -o "$out.tmp"; then
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Download cards (with fallbacks)
-        shell: bash
-        run: |
-          set -u
-          mkdir -p profile
-
-          UA="Mozilla/5.0 (GitHub Actions)"
-
-          fetch_svg () {
-            local out="$1"; shift
-            local ok=0
-
-            # Try each URL until one succeeds
-            for url in "$@"; do
-              echo "Trying: $url"
-              if curl -L -A "$UA" --connect-timeout 15 --max-time 60 \
-                --retry 3 --retry-delay 2 --retry-all-errors \
-                "$url" -o "$out.tmp"; then
-
-                # Validate it's actually SVG, not HTML error page
-                if grep -qi "<svg" "$out.tmp"; then
-                  mv "$out.tmp" "$out"
-                  echo "✅ Saved: $out"
-                  ok=1
-                  break
-                else
-                  echo "⚠️ Not SVG response from $url"
-                fi
-              else
-                echo "⚠️ Failed: $url"
-              fi
-            done
-
-            # If all failed, keep old file (don’t break README)
-            if [ "$ok" -ne 1 ]; then
-              rm -f "$out.tmp"
-              if [ -f "$out" ]; then
-                echo "✅ Keeping existing $out (fallback)"
-              else
-                echo "❌ No existing $out to keep (first run). Creating placeholder."
-                echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120"><text x="10" y="60" font-size="16">Stats temporarily unavailable</text></svg>' > "$out"
-              fi
-            fi
-          }
-
-          # Streak (primary is stable)
-          fetch_svg "profile/streak.svg" \
-            "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true"
-
-          # Stats (PRIMARY + MIRROR fallback)
-          fetch_svg "profile/stats.svg" \
-            "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
-            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400"
-
-          # Top langs (PRIMARY + MIRROR fallback)
-          fetch_svg "profile/top-langs.svg" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
-            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add profile/*.svg
-
-          # Only commit if changes exist
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
+          # Validate it's SVG
+          if grep -qi "<svg" "$out.tmp"; then
+            mv "$out.tmp" "$out"
+            echo "✅ Saved: $out"
+            ok=1
+            break
+          else
+            echo "⚠️ Not SVG response from $url"
           fi
+        else
+          echo "⚠️ Failed: $url"
+        fi
+      done
 
-          git commit -m "chore: update GitHub cards"
-          git push
+      rm -f "$out.tmp"
+
+      # If all failed, keep existing file
+      if [ "$ok" -ne 1 ]; then
+        if [ -f "$out" ]; then
+          echo "✅ Keeping existing $out (service down)"
+        else
+          echo "⚠️ No existing $out found (first run). Creating placeholder SVG."
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="420" height="80"><text x="10" y="45" font-size="16">Stats temporarily unavailable</text></svg>' > "$out"
+        fi
+      fi
+    }
+
+    # Streak (usually stable)
+    fetch_svg "profile/streak.svg" \
+      "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true"
+
+    # Stats (primary + mirror)
+    fetch_svg "profile/stats.svg" \
+      "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
+      "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400"
+
+    # Top langs (primary + mirror)
+    fetch_svg "profile/top-langs.svg" \
+      "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
+      "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
