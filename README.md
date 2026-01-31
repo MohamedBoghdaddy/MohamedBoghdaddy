@@ -37,11 +37,26 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 
 ## 📈 GitHub Activity
 
-| **Metrics**        | **Stats**                                                                 |
-|--------------------|---------------------------------------------------------------------------|
-| **Contributions**  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark) |
-| **Repository**     | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark) |
-| **Languages**      | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark) |
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedBoghdaddy&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
 ## 💼 Professional Experience
 
@@ -112,10 +127,11 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 
 | Project | Description | Stack | Impact |
 |---------|-------------|-------|--------|
-| **[DeFi Copilot](https://github.com/MohamedBoghdaddy/DeFi-Copilot-ICP)** | Decentralized financial advisor with AI insights | ICP • Motoko • Gemini | **2K+ users**; Integrated Bitcoin/NFT support |
-| **[Stock Forcaster](https://github.com/MohamedBoghdaddy/Stock_Forcaster)** | Real-time forecasting dashboard for commodities | LSTM • FastAPI • Streamlit | **92% accuracy** across 15+ markets |
-| **[MammoAI](https://github.com/MohamedBoghdaddy/MammoAI)** | Medical video classifier for cancer detection | Mamba • ViViT • PyTorch | Processed **10K+ medical videos** |
-| **[AutoAI Suite](https://github.com/MohamedBoghdaddy/AutoAI-Suite)** | No-code ML pipeline builder | Scikit-Learn • Streamlit • SHAP | Reduced model development time by **75%** |
+| **[PreGen](https://github.com/MohamedBoghdaddy/PreGen)** | PreGen is an AI-driven educational platform that automatically generates quizzes, exams, assignments, and study materials from any learning content. It helps educators, trainers, and students save time, reduce manual work, and learn smarter using modern AI. | AI • Education • Full-Stack Platform | Automates content creation and study-material generation at scale |
+| **[Swarm Negotiation (MPSO)](https://github.com/MohamedBoghdaddy/Swarm_Negotiation_MPSO)** | User submits offer (fabric type, quantity, price range, quality, delivery time). Manufacturers input constraints (minimum price, quality levels, delivery). MPSO agent runs optimization over multiple rounds. System recommends best deal based on calculated fitness. User confirms or requests further negotiation. | MPSO • Optimization • Multi-round Negotiation | Produces data-driven negotiation recommendations under constraints |
+| **[Financial AI Advisor](https://github.com/MohamedBoghdaddy/FinancialAIAdvisor)** | Welcome to Financial AI Advisor! This project harnesses the power of AI to provide personalized financial advice, analyze market trends, and help users make informed financial decisions. Built on a robust tech stack with a focus on data science and machine learning, Financial AI Advisor empowers users with intelligent insights for improved financial planning. | AI • Data Science • ML Analytics | Turns market signals into actionable, personalized guidance |
+| **[ATOS Document Management System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)** | Document upload and storage: easily upload documents with secure storage. Metadata management: documents stored with metadata for searching and filtering. Secure access controls: role-based access for sensitive data. User-friendly interface for managing files and users. Document versioning to track history with version control. | RBAC • Metadata • Versioning • Web System | Secure, searchable document lifecycle management with governance |
+| **[FoundIt @ MIU](https://github.com/MohamedBoghdaddy/FoundIt)** | FoundIt @ MIU is a mobile application designed exclusively for students at Misr International University (MIU). It helps them post, find, and recover lost and found items using Firebase for secure authentication and data management. Includes a questionnaire-based matching system ensuring items are only returned to rightful owners through structured answers and auto-ranking logic. | Mobile App • Firebase • Matching Logic | Improves item recovery accuracy with verification + ranking workflow |
 
 ---
 
