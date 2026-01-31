@@ -11,25 +11,36 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download cards
+      - name: Download GitHub cards
         run: |
-          set -e
           mkdir -p profile
 
-          curl -L --fail --retry 5 --retry-delay 2 \
+          UA="Mozilla/5.0 GitHub-Actions"
+
+          curl -L -A "$UA" \
             "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true" \
-            -o profile/streak.svg
+            -o profile/streak.svg || true
 
-          curl -L --fail --retry 5 --retry-delay 2 \
+          curl -L -A "$UA" \
             "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
-            -o profile/stats.svg
+            -o profile/stats.svg || true
 
-          curl -L --fail --retry 5 --retry-delay 2 \
+          curl -L -A "$UA" \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
-            -o profile/top-langs.svg
+            -o profile/top-langs.svg || true
+
+      - name: Validate SVGs
+        run: |
+          for f in profile/*.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "❌ Invalid SVG: $f"
+              rm -f "$f"
+            fi
+          done
 
       - name: Commit and push
         run: |
