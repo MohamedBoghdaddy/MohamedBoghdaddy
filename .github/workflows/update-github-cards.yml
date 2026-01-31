@@ -15,37 +15,77 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download GitHub cards
+      - name: Download cards (with fallbacks)
+        shell: bash
         run: |
+          set -u
           mkdir -p profile
 
-          UA="Mozilla/5.0 GitHub-Actions"
+          UA="Mozilla/5.0 (GitHub Actions)"
 
-          curl -L -A "$UA" \
-            "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true" \
-            -o profile/streak.svg || true
+          fetch_svg () {
+            local out="$1"; shift
+            local ok=0
 
-          curl -L -A "$UA" \
-            "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
-            -o profile/stats.svg || true
+            # Try each URL until one succeeds
+            for url in "$@"; do
+              echo "Trying: $url"
+              if curl -L -A "$UA" --connect-timeout 15 --max-time 60 \
+                --retry 3 --retry-delay 2 --retry-all-errors \
+                "$url" -o "$out.tmp"; then
 
-          curl -L -A "$UA" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
-            -o profile/top-langs.svg || true
+                # Validate it's actually SVG, not HTML error page
+                if grep -qi "<svg" "$out.tmp"; then
+                  mv "$out.tmp" "$out"
+                  echo "✅ Saved: $out"
+                  ok=1
+                  break
+                else
+                  echo "⚠️ Not SVG response from $url"
+                fi
+              else
+                echo "⚠️ Failed: $url"
+              fi
+            done
 
-      - name: Validate SVGs
-        run: |
-          for f in profile/*.svg; do
-            if ! grep -q "<svg" "$f"; then
-              echo "❌ Invalid SVG: $f"
-              rm -f "$f"
+            # If all failed, keep old file (don’t break README)
+            if [ "$ok" -ne 1 ]; then
+              rm -f "$out.tmp"
+              if [ -f "$out" ]; then
+                echo "✅ Keeping existing $out (fallback)"
+              else
+                echo "❌ No existing $out to keep (first run). Creating placeholder."
+                echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120"><text x="10" y="60" font-size="16">Stats temporarily unavailable</text></svg>' > "$out"
+              fi
             fi
-          done
+          }
+
+          # Streak (primary is stable)
+          fetch_svg "profile/streak.svg" \
+            "https://streak-stats.demolab.com?user=MohamedBoghdaddy&theme=dark&hide_border=true"
+
+          # Stats (PRIMARY + MIRROR fallback)
+          fetch_svg "profile/stats.svg" \
+            "https://github-readme-stats.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" \
+            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedBoghdaddy&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400"
+
+          # Top langs (PRIMARY + MIRROR fallback)
+          fetch_svg "profile/top-langs.svg" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" \
+            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedBoghdaddy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
-          git commit -m "chore: update GitHub cards" || exit 0
+
+          # Only commit if changes exist
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub cards"
           git push
