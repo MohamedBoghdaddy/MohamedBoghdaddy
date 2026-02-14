@@ -38,12 +38,12 @@ I design and deploy intelligent systems that bridge machine learning, full-stack
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="./profile/streak.png" alt="GitHub Streak" height="165" />
-  <img src="./profile/stats.png" alt="GitHub Stats" height="165" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.png" alt="Top Languages" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 </p>
 
 
