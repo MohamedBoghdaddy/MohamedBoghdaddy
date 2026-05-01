@@ -99,7 +99,7 @@ I design and deploy intelligent software systems that combine machine learning, 
 </details>
 
 <details>
-<summary><b>AI Engineer — Neorontrix</b> <em>2024</em></summary>
+<summary><b>AI Engineer — Neorontrix</b> <em>Aug 2024 – Oct 2024</em></summary>
 
 <br />
 
