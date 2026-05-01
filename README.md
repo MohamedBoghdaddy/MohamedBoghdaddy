@@ -56,7 +56,7 @@ I design and deploy intelligent software systems that combine machine learning, 
 ## Professional Experience
 
 <details open>
-<summary><b>Full-Stack AI Engineer</b> <em>Oct 2025 – Present</em></summary>
+<summary><b>Full-Stack AI Engineer - Pregen AI Solutions</b> <em>Oct 2025 – Present</em></summary>
 
 <br />
 
