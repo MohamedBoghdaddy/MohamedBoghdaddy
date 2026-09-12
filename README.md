@@ -160,7 +160,7 @@ PartIQ analyzes accident imagery to identify vehicle damage and support structur
 
 ### Technology
 
-- YOLO-based computer vision
+- computer vision
 - Object detection
 - Damage segmentation
 - Vehicle part detection
