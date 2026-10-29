@@ -78,28 +78,6 @@ Current product areas include career technology, insurance intelligence, AI data
 
 ---
 
-
-## AI LMS
-
-**Learning Intelligence · EdTech**
-
-AI-native learning management architecture for schools and universities.
-
-Designed around:
-
-- AI-generated assessments
-- Adaptive learning
-- Curriculum intelligence
-- AI tutoring
-- Learning analytics
-- Question banks
-- Document intelligence
-- Teacher workflows
-- Student personalization
-- Academic administration
-
----
-
 # Engineering Focus
 
 ## AI Systems Architecture
