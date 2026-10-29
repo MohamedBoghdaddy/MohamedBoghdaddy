@@ -79,102 +79,6 @@ Current product areas include career technology, insurance intelligence, AI data
 ---
 
 
-## PreGen AI
-
-**Full-Stack AI Engineer — Oct 2025 → Present**
-
-Building an AI-native education platform covering learning management, assessment generation, academic workflows, and intelligent content systems.
-
-### Responsibilities
-
-- Full-stack product architecture
-- Backend engineering
-- AI systems
-- LLM integrations
-- Infrastructure
-- Deployment
-- Performance optimization
-- AI reliability
-- Testing
-
-### AI architecture
-
-Integrated and orchestrated multiple AI providers including:
-
-- OpenAI
-- Gemini
-- Anthropic Claude
-- DeepSeek
-
-Worked on systems for:
-
-- Quiz generation
-- Assignment generation
-- AI tutoring
-- Educational booklet generation
-- Question banks
-- Curriculum intelligence
-- Adaptive learning
-- Semantic retrieval
-- OCR and document understanding
-- AI model routing
-- Cost optimization
-- Caching
-- Streaming
-- Provider fallback
-- AI observability
-
----
-
-# Products & Ventures
-
-## PartIQ
-
-**Vehicle Intelligence · InsurTech · Computer Vision**
-
-AI-powered vehicle damage intelligence for motor insurance and automotive workflows.
-
-PartIQ analyzes accident imagery to identify vehicle damage and support structured claims assessment.
-
-### Technology
-
-- computer vision
-- Object detection
-- Damage segmentation
-- Vehicle part detection
-- Damage severity analysis
-- Confidence scoring
-- Human-in-the-loop review
-- Pricing intelligence
-- Claims automation
-
-Target users include insurers, claims teams, fleet operators, assessors, repair networks, and automotive partners.
-
----
-
-## HunterFlow
-
-**Career Intelligence · CareerTech**
-
-AI-powered job discovery and career intelligence platform.
-
-HunterFlow is designed to aggregate opportunities across multiple sources and intelligently match candidates with relevant jobs.
-
-### Core systems
-
-- Multi-source job aggregation
-- CV parsing
-- Semantic job matching
-- AI match scoring
-- Job recommendation
-- Application tracking
-- Automated job discovery
-- Browser extension workflows
-- AI-assisted applications
-- Career intelligence
-
----
-
 ## AI LMS
 
 **Learning Intelligence · EdTech**
@@ -476,7 +380,6 @@ OpenAI · Claude · Gemini · CV Models
 
 | Project | Engineering Focus |
 | --- | --- |
-| **[PreGen](https://github.com/MohamedBoghdaddy/PreGen)** | DEMO AI-native education platform combining full-stack engineering, generative AI, assessments, tutoring, and learning workflows. |
 | **[Swarm Negotiation MPSO](https://github.com/MohamedBoghdaddy/Swarm_Negotiation_MPSO)** | Multi-round negotiation architecture using Modified Particle Swarm Optimization to optimize price, quality, and delivery constraints. |
 | **[Financial AI Advisor](https://github.com/MohamedBoghdaddy/FinancialAIAdvisor)** | Machine-learning financial analysis and decision-support platform. |
 | **[ATOS Document Management System](https://github.com/MohamedBoghdaddy/Atos-Task-document-management-system)** | Secure document lifecycle platform with RBAC, metadata search, document storage, and versioning. |
