@@ -1,6 +1,6 @@
 # Mohamed Boghdaddy
 
-### Founder @ Gapsmania · Technical Co-Founder @ ENARA · Full-Stack AI Engineer
+### Founder @ Gapsmania · Full-Stack AI Engineer
 
 I build AI-native products from research and system architecture to production deployment.
 
@@ -78,28 +78,6 @@ Current product areas include career technology, insurance intelligence, AI data
 
 ---
 
-## ENARA
-
-**Technical Co-Founder — Aug 2026 → Present**
-
-Building the technical architecture behind an AI-powered learning and conversational tutoring platform.
-
-### Current engineering focus
-
-- Real-time AI tutoring architecture
-- Conversational AI systems
-- Arabic and Egyptian Arabic interactions
-- AI avatar integrations
-- Speech-to-text and text-to-speech pipelines
-- Retrieval-based deterministic Q&A
-- LLM fallback architecture
-- Backend service architecture
-- Cloud deployment
-- Production reliability
-
-The platform combines conversational intelligence, education workflows, avatars, speech systems, and AI orchestration into a unified learning experience.
-
----
 
 ## PreGen AI
 
